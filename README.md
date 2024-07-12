@@ -58,7 +58,7 @@ cd spectov1
 Navigate to the spectoV2 directory and follow the instructions in the README.md file to run the regression model.
 
 ```bash
-cs spectov2
+cd spectov2
 ```
 
 
